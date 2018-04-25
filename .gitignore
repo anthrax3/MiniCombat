@@ -34,4 +34,4 @@ sysinfo.txt
 *.unitypackage
 
 # OS
-.DS_Store
+*.DS_Store
