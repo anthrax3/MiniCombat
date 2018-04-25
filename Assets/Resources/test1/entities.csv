@@ -1,0 +1,6 @@
+id,name,team,type,subtype
+14.0,Mage1,11.0,AIRCRAFT,BlueFighter
+32.0,Mage2,11.0,AIRCRAFT,BlueFighter
+53.0,Warlock1,52.0,AIRCRAFT,RedFighter
+73.0,Warlock2,52.0,AIRCRAFT,RedFighter
+94.0,PotatoHead,51.0,MARITIME,RedFrigate
